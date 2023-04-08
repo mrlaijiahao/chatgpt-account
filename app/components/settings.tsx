@@ -198,8 +198,8 @@ export function Settings(props: { closeSettings: () => void }) {
               </div>
             </Popover>
           </SettingItem>
-
-          <SettingItem
+{/* 更新按钮 */}
+          {/* <SettingItem
             title={Locale.Settings.Update.Version(currentId)}
             subTitle={
               checkingUpdate
@@ -222,7 +222,7 @@ export function Settings(props: { closeSettings: () => void }) {
                 onClick={() => checkUpdate(true)}
               />
             )}
-          </SettingItem>
+          </SettingItem> */}
 
           <SettingItem title={Locale.Settings.SendKey}>
             <select
@@ -261,8 +261,8 @@ export function Settings(props: { closeSettings: () => void }) {
               ))}
             </select>
           </ListItem>
-
-          <SettingItem title={Locale.Settings.Lang.Name}>
+                {/* 语言设置 */}
+          {/* <SettingItem title={Locale.Settings.Lang.Name}>
             <select
               value={getLang()}
               onChange={(e) => {
@@ -275,7 +275,7 @@ export function Settings(props: { closeSettings: () => void }) {
                 </option>
               ))}
             </select>
-          </SettingItem>
+          </SettingItem> */}
 
           <SettingItem
             title={Locale.Settings.FontSize.Title}
