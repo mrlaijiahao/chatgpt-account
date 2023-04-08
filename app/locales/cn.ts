@@ -3,7 +3,7 @@ import { SubmitKey } from "../store/app";
 const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
-    Unauthorized: "现在是未授权状态，请在设置页输入授权码。",
+    Unauthorized: "询问受到限制，免费体验key请关注公众号【佳豪君z】或【拾壹0x7f】获取\n独享key请点击链接：https://i.atfk.cc/wnVOn ，可独享100000次对话。",
   },
   ChatItem: {
     ChatItemCount: (count: number) => `${count} 条对话`,
@@ -112,9 +112,9 @@ const cn = {
       NoAccess: "输入API Key查看余额",
     },
     AccessCode: {
-      Title: "授权码",
+      Title: "访问受到限制",
       SubTitle: "现在是未授权访问状态",
-      Placeholder: "请输入授权码",
+      Placeholder: "请在设置中输入key，若无key请点击上面链接进行购买",
     },
     Model: "模型 (model)",
     Temperature: {
