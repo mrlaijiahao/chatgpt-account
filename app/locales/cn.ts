@@ -132,7 +132,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "本网站提供给不会魔法的用户，去调用chatGPT的功能，你可以在拾壹0x7f小店购买账号或者openAI key (挑战全网最低价格) : https://i.atfk.cc/CbRiS",
+    BotHello: "本网站提供给不会魔法的用户，去调用chatGPT的功能，你可以在拾壹0x7f小店购买账号或者openAI key (挑战全网最低价格) : https://i.atfk.cc/wnVOn",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) =>

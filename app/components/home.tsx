@@ -118,7 +118,7 @@ function _Home() {
         <div className={styles["sidebar-header"]}>
           <div className={styles["sidebar-title"]}>ChatGPT镜像站</div>
           <div className={styles["sidebar-sub-title"]}>
-          <a href='https://i.atfk.cc/CbRiS' target="_blank">➡️点此购买账号 或 Api Key</a>
+          <a href='https://i.atfk.cc/wnVOn' target="_blank">➡️点此购买账号 或 Api Key</a>
           </div>
           <div className={styles["sidebar-logo"]}>
             <ChatGptIcon />

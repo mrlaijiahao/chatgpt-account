@@ -527,7 +527,7 @@ export function Chat(props: {
       </div>
       <div className={styles.notice}>   
         <div >
-        <a href='https://i.atfk.cc/CbRiS' target="_blank">➡️点此购买账号 或 Api Key</a>
+        <a href='https://i.atfk.cc/wnVOn' target="_blank">➡️点此购买账号 或 Api Key</a>
         </div>
       </div>
       <div
